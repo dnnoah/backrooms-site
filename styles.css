@@ -1,0 +1,122 @@
+header a:hover{
+     color: white;
+     font-size: 60px;
+
+}
+header { 
+     color: #D1CA72;
+     background-color:#847029;
+     height: 100px; 
+     width: 100%;
+     font-size: 45px;
+     text-align: center;
+     line-height: 95px;
+     font-family: PlanetKosmos;
+     
+     
+}
+@font-face {
+     font-family: PlanetKosmos;
+     src: url('plank.ttf');
+    }
+
+@font-face {
+     font-family: SanDeMore;
+     src: url(sandermore.TTF);
+}
+header a{
+     text-decoration: none;
+     color: #D1CA72;
+     transition: 0.5s;
+
+}
+
+.form-control{
+background-color:#D1CA72;
+
+}
+form{
+     text-align: center;
+     font-family: PlanetKosmos;
+}
+
+
+body {
+     background-color: #bcb056;
+     background-image: url(images/backrooms.jpg);
+     background-repeat:repeat;
+}
+
+.pinfo{
+     font-family: Helvetica, sans-serif;
+
+}
+
+.boxl{
+     text-align: left;
+     width: 20%;
+     height: 50vh;
+     background-color:#847029;
+     float:left;
+     padding: 5%;
+     margin-top: 5%;
+
+}
+
+.boxm{
+     text-align: left;
+     width: 30%;
+     height: 50vh;
+     background-color:#D1CA72;
+     float:left;
+     padding: 5%;
+     margin-top: 5%;
+     font-size: 100%;
+     font-family: Helvetica;
+}
+
+.boxm p{
+     font-family: SanDeMore;
+     src: url(sandermore.TTF);
+ }
+
+.boxr{
+     text-align: left;
+     width: 20%;
+     height: 50vh;
+     background-color:#847029;
+     float:left;
+     padding: 5%;
+     margin-top: 5%;
+
+
+}
+.box{
+text-align: center;
+padding-top: 20px;
+
+}
+
+
+
+
+/* Color Theme Swatches in Hex */
+.Backrooms-1-hex { color: #E9E0AB; }
+.Backrooms-2-hex { color: #BCB056; }
+.Backrooms-3-hex { color: #847029; }
+.Backrooms-4-hex { color: #D1CA72; }
+.Backrooms-5-hex { color: #CDC4AD; }
+
+/* Color Theme Swatches in RGBA */
+.Backrooms-1-rgba { color: rgba(232, 223, 170, 1); }
+.Backrooms-2-rgba { color: rgba(188, 175, 86, 1); }
+.Backrooms-3-rgba { color: rgba(131, 112, 40, 1); }
+.Backrooms-4-rgba { color: rgba(209, 202, 114, 1); }
+.Backrooms-5-rgba { color: rgba(205, 195, 172, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Backrooms-1-hsla { color: hsla(0, 58, 79, 1); }
+.Backrooms-2-hsla { color: hsla(0, 43, 53, 1); }
+.Backrooms-3-hsla { color: hsla(0, 52, 33, 1); }
+.Backrooms-4-hsla { color: hsla(0, 50, 63, 1); }
+.Backrooms-5-hsla { color: hsla(0, 24, 74, 1); }
